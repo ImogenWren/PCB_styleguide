@@ -11,6 +11,8 @@ _Make sure all items are included before moving to quoting for fabrication_
 - Social Links - Practicable.io github []
 - Social Links - PCB Designers choice []
 - Serial Number, Producion Date & Assembly note block
+- Designed by $namme
+- Date $date
 
 
 
